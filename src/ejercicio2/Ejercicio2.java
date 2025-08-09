@@ -25,9 +25,9 @@ public class Ejercicio2 {
             System.out.println("La edad ingresada, pertenece a una persona mayor de edad ");
         }else{
             System.out.println("La edad ingresada, pertenece a una persona menor de edad");
-//CAMBIOS DE PRUEBA PARA TAREA DE SUBIR A GITHUB Y A LA COMPUTADORA VIRTUAL
-//SON LOS CAMBIOS ANTES DE SUBIR LA TAREA
-//FECHA 08/08/2025
+//CAMBIOS DE PRUEBA PARA TAREA DE SUBIR A GITHUB Y A LA COMPUTADORA VIRTUAL.
+//SON LOS CAMBIOS ANTES DE SUBIR LA TAREA.
+//FECHA 08/08/2025.
         }
     }
             
